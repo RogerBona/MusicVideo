@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">So i Video</string>
+    <string name="sound_player">Reprodueix la musica</string>
+    <string name="listening">Reproduint musica...</string>
+    <string name="video_player">Reprodueix el video</string>
+    <string name="showing">Reproduint video...</string>
+    <string name="paused">Video en pausa...</string>
+</resources>
